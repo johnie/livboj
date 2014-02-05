@@ -12,7 +12,7 @@ The idea behind this project is to read testers spreadsheet from Google Drive an
 $ livboj
 
 ┌──────────┬────────────────┬──────┬─────────┬─────────────────────────────┬────────────┐
-│ **Issue ID** │ **Issue name**     │ **Prio** │ **Type**    │ **Description**                 │ **Status**     │
+│ Issue ID │ Issue name     │ Prio │ Type    │ Description                 │ Status     │
 ├──────────┼────────────────┼──────┼─────────┼─────────────────────────────┼────────────┤
 │ 1        │ Add caterings  │ 3    │ Feature │ You need to be able to add  │            │
 │          │                │      │         │ caterings to the booking    │ Not Solved │
