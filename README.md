@@ -4,7 +4,7 @@ Simple issue tracker via cli
 
 ### Notes
 
-The idea behind this project is to read testers spreadsheet from Google Drive and display it in a pretty table in terminal. 
+The idea behind this project is to read testers spreadsheet from Google Drive and display it in a pretty table via terminal. 
 
 **Example:**
 
