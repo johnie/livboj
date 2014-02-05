@@ -1,0 +1,20 @@
+{
+  "name": "livboj",
+  "version": "0.0.1",
+  "description": "Issue tracker via terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": { 
+    "type": "git",
+    "url": "https://github.com/johnie/livboj.git"
+  },
+  "author": "Johnie Hjelm",
+  "license": "MIT",
+  "devDependencies": {
+    "cli-table": "~0.3.0",
+    "colors": "~0.6.2",
+    "tabletop": "~1.3.2"
+  }
+}
