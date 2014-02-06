@@ -1,4 +1,4 @@
-# Livboj
+# Livboj ![Logo](images/logo.png)
 
 Simple issue tracker via cli
 
